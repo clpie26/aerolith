@@ -1,5 +1,6 @@
 # Aerolith
 
+## Check the [modrinth](https://modrinth.com/datapack/aerolith) first as it is updated more
 
 Aerolith: Ascend to Adventure
 Do you crave wide-open skies and breathtaking vistas? Aerolith transforms the lush biomes of Terralith into a floating archipelago, crafting a skylands adventure unlike any other!
